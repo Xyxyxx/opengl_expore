@@ -1,0 +1,11 @@
+rm -rf build
+
+cmake -S . -B build
+
+cd build
+
+make all
+
+echo "============Compilation finished, running program==============="
+
+./test

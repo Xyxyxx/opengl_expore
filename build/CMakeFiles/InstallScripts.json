@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tiger/Documents/Projects/LearnOpenGL/build/cmake_install.cmake",
+		"/home/tiger/Documents/Projects/LearnOpenGL/build/glfw/cmake_install.cmake",
+		"/home/tiger/Documents/Projects/LearnOpenGL/build/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
